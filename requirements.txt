@@ -1,0 +1,12 @@
+streamlit
+pandas
+openpyxl
+reportlab
+io
+streamlit_option_menu
+math
+os
+base64
+uuid
+json
+canvas
