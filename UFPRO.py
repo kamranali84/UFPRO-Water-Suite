@@ -120,13 +120,6 @@ def get_image_base64(path):
             f.read()
         ).decode()
 
-# Verify image exists
-
-if not os.path.exists("UF_Diagram.png"):
-    st.error("UF_Diagram.png not found in project folder")
-    st.stop()
-
-img = get_image_base64("UF_Diagram.png")
 
 # =====================================================
 # VALUES
