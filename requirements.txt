@@ -1,12 +1,9 @@
 streamlit
 pandas
+numpy
 openpyxl
 reportlab
-io
-streamlit_option_menu
-math
-os
-base64
-uuid
-json
-canvas
+pillow
+matplotlib
+plotly
+streamlit-option-menu
